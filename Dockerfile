@@ -1,4 +1,4 @@
-FROM ghcr.io/koenrh/dnscontrol:v3.12.0@sha256:387bc4a467803daceaf4da41e9ac6a0b9314a7035c0d5739c8ef7ba9845e6eca
+FROM docker.io/jraffin/dnscontrol:3.13.0@sha256:75c34da2766af9876d1ab64496e44439d6717f40fed31c38cecda7b2841f449a
 
 LABEL repository="https://github.com/koenrh/dnscontrol-action"
 LABEL maintainer="Koen Rouwhorst <info@koenrouwhorst.nl>"
